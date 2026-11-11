@@ -1,0 +1,66 @@
+[
+  {
+    "id": "email",
+    "lv": 1,
+    "label": "Confirm your email",
+    "desc": "So we can reach you about your pieces.",
+    "pts": 5
+  },
+  {
+    "id": "role",
+    "lv": 1,
+    "label": "Add your role and links",
+    "desc": "The role that will appear on your byline, and where people can find your work.",
+    "pts": 7
+  },
+  {
+    "id": "samples",
+    "lv": 1,
+    "label": "Link work samples",
+    "desc": "A portfolio site, published credits or exhibited work.",
+    "pts": 10,
+    "kind": "samples",
+    "act": "Add links"
+  },
+  {
+    "id": "ref",
+    "lv": 1,
+    "label": "Reference from a verified creator or employer",
+    "desc": "One short confirmation of your role.",
+    "pts": 10,
+    "kind": "ref",
+    "act": "Request"
+  },
+  {
+    "id": "check",
+    "lv": 1,
+    "label": "Role check by our editors",
+    "desc": "A 15-minute call or a document check. Required for Level 1.",
+    "pts": 8,
+    "kind": "check",
+    "act": "Book"
+  },
+  {
+    "id": "publish",
+    "lv": 2,
+    "label": "Publish five pieces",
+    "desc": "Counts automatically as your pieces go live.",
+    "pts": 6
+  },
+  {
+    "id": "picks",
+    "lv": 2,
+    "label": "Earn two Editor's Picks",
+    "desc": "Counts automatically. Picks are chosen by the editors of each pillar.",
+    "pts": 12
+  },
+  {
+    "id": "cred",
+    "lv": 2,
+    "label": "Add a credential",
+    "desc": "A peer-reviewed paper, an industry award, a teaching post or a professional membership.",
+    "pts": 12,
+    "kind": "cred",
+    "act": "Add"
+  }
+]

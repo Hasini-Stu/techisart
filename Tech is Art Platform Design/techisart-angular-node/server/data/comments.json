@@ -1,0 +1,50 @@
+{
+  "the-hand-still-leads-inside-the-studios-training-machines-on-their-own-sketchboo": [
+    {
+      "id": 1,
+      "name": "Owen Harker",
+      "role": "Printmaker",
+      "verified": true,
+      "time": "2 h ago",
+      "text": "The faint-guide method is how we have used plotters in the print studio for years, just without the model. Good to see the hand keep the last word.",
+      "replies": [
+        {
+          "id": 11,
+          "name": "Mara Okonkwo-Lind",
+          "role": "Creative Technologist",
+          "verified": true,
+          "isAuthor": true,
+          "time": "1 h ago",
+          "text": "Teodor said the same thing. The plotter came first; the model only changed what it draws. Thanks, Owen."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dr. Hanna Lew",
+      "role": "Researcher",
+      "verified": true,
+      "time": "3 h ago",
+      "text": "This overlaps with our authorship study: the galleries asking for process notes are doing exactly what our participants rewarded. I would love to read some of the notes themselves.",
+      "replies": []
+    },
+    {
+      "id": 3,
+      "name": "Camille Duret",
+      "role": "Art Critic",
+      "verified": true,
+      "time": "5 h ago",
+      "text": "I saw two of Vos's pieces in Rotterdam. You would never guess a model was involved, which I think is the point.",
+      "replies": []
+    },
+    {
+      "id": 4,
+      "name": "Jules Martin",
+      "role": "Reader",
+      "verified": false,
+      "time": "6 h ago",
+      "text": "Could a student try the sketchbook-model approach without a dedicated GPU? Asking for a final-year project.",
+      "replies": []
+    }
+  ]
+}

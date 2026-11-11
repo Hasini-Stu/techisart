@@ -1,0 +1,74 @@
+[
+  {
+    "pillar": "Art",
+    "format": "Article",
+    "title": "The Hand Still Leads",
+    "deck": "Inside the studios training machines on their own sketchbooks.",
+    "date": "Nov 4, 2026",
+    "read": "14 min",
+    "image": "studio — drawing over print"
+  },
+  {
+    "pillar": "Art",
+    "format": "Interview",
+    "title": "Six Years Painting Alongside a Robot Arm",
+    "deck": "Ilse Varga on sharing a canvas with a machine.",
+    "date": "Sep 18, 2026",
+    "read": "11 min",
+    "image": "robot arm holding brush"
+  },
+  {
+    "pillar": "Research",
+    "format": "Research",
+    "title": "Process Notes in Practice: How 40 Galleries Ask About Tools",
+    "deck": "A survey of what galleries request, and what artists provide.",
+    "date": "Jul 2, 2026",
+    "read": "19 min",
+    "image": "chart — request types by gallery size"
+  },
+  {
+    "pillar": "Art",
+    "format": "Article",
+    "title": "The Studio Assistant Is Now a Script",
+    "deck": "Automating the dull parts and keeping the rest.",
+    "date": "May 21, 2026",
+    "read": "8 min",
+    "image": "painter at desk with laptop"
+  },
+  {
+    "pillar": "Art",
+    "format": "Article",
+    "title": "Training a Model on Nineteen Years of Sketchbooks",
+    "deck": "A practical walkthrough, from scanning to the first bad proposal.",
+    "date": "Mar 9, 2026",
+    "read": "16 min",
+    "image": "stack of scanned sketchbooks"
+  },
+  {
+    "pillar": "Art",
+    "format": "Review",
+    "title": "A Week With the AxiDraw SE/A1",
+    "deck": "Fast, loud and better than any plotter I have owned.",
+    "date": "Jan 30, 2026",
+    "read": "6 min",
+    "image": "large-format plotter on table"
+  },
+  {
+    "pillar": "Research",
+    "format": "Research",
+    "title": "Small Studio Models: A Practical Benchmark",
+    "deck": "Five compact models, scored on what artists actually need.",
+    "date": "Nov 12, 2025",
+    "read": "21 min",
+    "image": "table — model scores by task"
+  },
+  {
+    "pillar": "Art",
+    "format": "Interview",
+    "title": "Teodor Halvorsen on Printing Faint Guides",
+    "deck": "The Bergen print technician behind three artists' pipelines.",
+    "date": "Aug 5, 2025",
+    "read": "9 min",
+    "image": "print workshop, cotton paper"
+  }
+]

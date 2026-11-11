@@ -1,0 +1,557 @@
+[
+  {
+    "slug": "i-want-the-tool-to-disappear-ines-faro-on-building-her-own-ar-try-on",
+    "pillar": "Beauty",
+    "format": "Interview",
+    "title": "\"I Want the Tool to Disappear\": Ines Faro on Building Her Own AR Try-On",
+    "deck": "A session makeup artist explains why she wrote her own software instead of licensing a filter.",
+    "author": "Jonah Reyes",
+    "role": "Beauty Editor",
+    "image": "portrait — artist at mirror with tablet"
+  },
+  {
+    "slug": "skin-tone-is-not-a-slider",
+    "pillar": "Beauty",
+    "format": "Article",
+    "title": "Skin Tone Is Not a Slider",
+    "deck": "Why the best shade-matching systems start with a palette drawn by hand.",
+    "author": "Priya Natarajan",
+    "role": "Cosmetic Chemist",
+    "image": "swatches on skin, macro"
+  },
+  {
+    "slug": "we-tested-four-virtual-try-on-mirrors-in-a-working-salon",
+    "pillar": "Beauty",
+    "format": "Review",
+    "title": "We Tested Four Virtual Try-On Mirrors in a Working Salon",
+    "deck": "Two were useful. One flattered everyone. One could not see freckles.",
+    "author": "Leah Brandt",
+    "role": "Salon Owner",
+    "image": "salon interior, mirror units"
+  },
+  {
+    "slug": "a-fragrance-house-is-composing-with-a-model-trained-only-on-its-archive",
+    "pillar": "Beauty",
+    "format": "News",
+    "title": "A Fragrance House Is Composing With a Model Trained Only on Its Archive",
+    "deck": "The perfumers keep the final say. The model suggests accords from 140 years of formulas.",
+    "author": "Tomás Ellery",
+    "role": "Reporter",
+    "image": "perfume lab, glass vials"
+  },
+  {
+    "slug": "the-pattern-cutter-s-revenge",
+    "pillar": "Fashion",
+    "format": "Article",
+    "title": "The Pattern Cutter's Revenge",
+    "deck": "Generative design drew the silhouettes. A cutter with thirty years at the bench made them wearable.",
+    "author": "Adaeze Morrow",
+    "role": "Fashion Designer",
+    "image": "paper patterns on cutting table"
+  },
+  {
+    "slug": "digital-twins-on-the-runway-with-fewer-illusions",
+    "pillar": "Fashion",
+    "format": "Interview",
+    "title": "Digital Twins on the Runway, With Fewer Illusions",
+    "deck": "A 3D garment artist on what simulation still gets wrong about wool.",
+    "author": "Kenji Arata",
+    "role": "3D Garment Artist",
+    "image": "cloth simulation render beside sample"
+  },
+  {
+    "slug": "copenhagen-adds-a-material-innovation-track-to-fashion-week",
+    "pillar": "Fashion",
+    "format": "News",
+    "title": "Copenhagen Adds a Material Innovation Track to Fashion Week",
+    "deck": "Twelve studios will show mycelium, lab-grown leather and recycled-fibre work.",
+    "author": "Sofie Lund",
+    "role": "Reporter",
+    "image": "runway, textured garments"
+  },
+  {
+    "slug": "garment-cad-for-students-who-can-t-afford-it",
+    "pillar": "Fashion",
+    "format": "Review",
+    "title": "Garment CAD for Students Who Can't Afford It",
+    "deck": "Three free and low-cost tools, tested on a real graduate collection.",
+    "author": "Rafael Quist",
+    "role": "Design Educator",
+    "image": "laptop screen with pattern pieces"
+  },
+  {
+    "slug": "what-a-producer-hears-that-the-stem-splitter-misses",
+    "pillar": "Music",
+    "format": "Article",
+    "title": "What a Producer Hears That the Stem Splitter Misses",
+    "deck": "Separation tools are good now. Room tone, bleed and intent are still the engineer's job.",
+    "author": "Dele Ashworth",
+    "role": "Producer",
+    "image": "mixing desk, tape machine"
+  },
+  {
+    "slug": "ten-days-with-a-modular-synth-that-writes-back",
+    "pillar": "Music",
+    "format": "Review",
+    "title": "Ten Days With a Modular Synth That Writes Back",
+    "deck": "A generative module that answers your patch. Inspiring for a week, then predictable.",
+    "author": "Ana Whitlock",
+    "role": "Sound Designer",
+    "image": "eurorack case, patch cables"
+  },
+  {
+    "slug": "rehearsing-with-a-voice-model-of-her-own-choir",
+    "pillar": "Music",
+    "format": "Interview",
+    "title": "Rehearsing With a Voice Model of Her Own Choir",
+    "deck": "A choir director uses a model of her singers to test arrangements before rehearsal.",
+    "author": "Mina Sorensen",
+    "role": "Music Editor",
+    "image": "choir in rehearsal room"
+  },
+  {
+    "slug": "collecting-societies-propose-a-credit-line-for-tool-assisted-tracks",
+    "pillar": "Music",
+    "format": "News",
+    "title": "Collecting Societies Propose a Credit Line for Tool-Assisted Tracks",
+    "deck": "The draft asks writers to list tools by stage, not by percentage.",
+    "author": "Theo Marsh",
+    "role": "Reporter",
+    "image": "vinyl label close-up"
+  },
+  {
+    "slug": "slow-signal-is-the-quietest-show-about-ai-this-year",
+    "pillar": "Art",
+    "format": "Review",
+    "title": "\"Slow Signal\" Is the Quietest Show About AI This Year",
+    "deck": "Eleven artists, no screens larger than a postcard, and a lot of graphite.",
+    "author": "Camille Duret",
+    "role": "Art Critic",
+    "image": "gallery wall, small framed works"
+  },
+  {
+    "slug": "plotters-are-back-and-they-never-left-the-print-studio",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "Plotters Are Back, and They Never Left the Print Studio",
+    "deck": "Pen plotters from the 1980s are finding second lives with a new generation of printmakers.",
+    "author": "Owen Harker",
+    "role": "Printmaker",
+    "image": "pen plotter mid-drawing"
+  },
+  {
+    "slug": "six-years-painting-alongside-a-robot-arm",
+    "pillar": "Art",
+    "format": "Interview",
+    "title": "Six Years Painting Alongside a Robot Arm",
+    "deck": "Ilse Varga on sharing a canvas with a machine she programmed herself.",
+    "author": "Mara Okonkwo-Lind",
+    "role": "Creative Technologist",
+    "image": "robot arm holding brush, studio"
+  },
+  {
+    "slug": "a-museum-opens-its-collection-as-a-dataset-with-conditions",
+    "pillar": "Art",
+    "format": "News",
+    "title": "A Museum Opens Its Collection as a Dataset, With Conditions",
+    "deck": "Researchers may train on it. Commercial use requires a licence and named credit.",
+    "author": "Tomás Ellery",
+    "role": "Reporter",
+    "image": "museum storage, archive drawers"
+  },
+  {
+    "slug": "the-hand-still-leads-inside-the-studios-training-machines-on-their-own-sketchboo",
+    "pillar": "Art",
+    "format": "Feature",
+    "title": "The Hand Still Leads: Inside the Studios Training Machines on Their Own Sketchbooks",
+    "deck": "In three studios across Europe, artists build small private models from their own drawings, then overrule them. The results look nothing like the internet's idea of AI art.",
+    "author": "Mara Okonkwo-Lind",
+    "role": "Creative Technologist",
+    "published": "2026-11-04",
+    "readMinutes": 14,
+    "disclosure": "Reporting and writing by the author. Studio photographs unedited. No generative tools were used in writing this article.",
+    "hero": "lead photo — Sanne Vos drawing over a printed model proposal",
+    "caption": "Sanne Vos works over a faint print of a model proposal in her Rotterdam studio. Most mornings she rejects every one.",
+    "authorBio": "Writes about studio practice and the tools artists build for themselves. Previously technical lead at a print workshop in Bergen.",
+    "blocks": [
+      {
+        "type": "p",
+        "text": "Every morning at nine, before the studio fills, Sanne Vos draws for forty minutes with a 2B pencil. She has done this for nineteen years. For the last two, the drawings have gone somewhere new: into a small model, trained only on her sketchbooks, that runs on a laptop with the Wi-Fi switched off."
+      },
+      {
+        "type": "p",
+        "text": "\"It's a mirror with bad manners,\" she says. The model proposes compositions in her hand: the same lazy diagonals, the same habit of leaving the left edge unfinished. Most mornings she rejects all of them. Some mornings one proposal shows her a habit she didn't know she had, and she spends the afternoon breaking it."
+      },
+      {
+        "type": "p",
+        "text": "Vos is one of a growing number of artists who treat machine learning less as a generator and more as an instrument with a narrow range. They build small, private systems, train them on their own work, and keep the final decision for themselves. The work that comes out is slower and stranger than most of what circulates online. It also, they argue, belongs to them."
+      },
+      {
+        "type": "h2",
+        "text": "A smaller model, on purpose"
+      },
+      {
+        "type": "p",
+        "text": "The studios we visited share one technical choice: scale down. Rather than prompting a general model trained on billions of images, they fine-tune compact models on a few thousand of their own drawings. The outputs are lower in resolution and narrower in range. That is the point."
+      },
+      {
+        "type": "p",
+        "text": "\"A big model gives you the average of everyone,\" says Teodor Halvorsen, who runs a print workshop in Bergen and helped three of the artists set up their pipelines. \"A small one gives you the average of you. That's useful, because the average of you is exactly what you want to avoid.\""
+      },
+      {
+        "type": "quote",
+        "text": "The model shows me my habits. My job is to break them.",
+        "by": "Sanne Vos, painter"
+      },
+      {
+        "type": "h2",
+        "text": "Where the hand comes back in"
+      },
+      {
+        "type": "p",
+        "text": "None of the artists exhibit raw outputs. Halvorsen's workshop prints proposals onto cotton paper as faint guides, and the artists draw over, around and against them. In some finished pieces the machine's line survives in a corner. In most it has been erased entirely, leaving only the decision it provoked."
+      },
+      {
+        "type": "p",
+        "text": "This matters for how the work is credited, and for how it sells. Two of the three galleries we spoke to now ask artists for a short process note listing the tools used and at which stage. Collectors, one dealer said, are less worried about whether a machine was involved than about whether anyone was in charge."
+      },
+      {
+        "type": "h2",
+        "text": "What this means for practitioners"
+      },
+      {
+        "type": "p",
+        "text": "For anyone building a practice around these tools, the studios suggest a working pattern: keep the training data yours, keep the model small enough to understand, and keep the last decision human. Document the process as you go. It becomes part of the work, and part of your record."
+      },
+      {
+        "type": "p",
+        "text": "Vos puts it more simply. The machine is a boat, she says, and a good one. It still needs someone who knows where they are going."
+      }
+    ],
+    "commentsEnabled": true,
+    "rating": {
+      "sum": 1435.2,
+      "count": 312
+    }
+  },
+  {
+    "slug": "against-the-infinite-canvas",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "Against the Infinite Canvas",
+    "deck": "Why a growing number of digital artists are choosing fixed sizes, editions and limits.",
+    "author": "Camille Duret",
+    "role": "Art Critic",
+    "image": "small framed prints on a long wall"
+  },
+  {
+    "slug": "what-conservators-need-from-digital-artists-now",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "What Conservators Need From Digital Artists, Now",
+    "deck": "Source files, dependency lists and a written intent. A checklist from three museum labs.",
+    "author": "Ruth Abara",
+    "role": "Conservator",
+    "image": "museum lab, archived hard drives"
+  },
+  {
+    "slug": "the-studio-assistant-is-now-a-script",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "The Studio Assistant Is Now a Script",
+    "deck": "How mid-career painters are automating the dull parts and keeping the rest.",
+    "author": "Mara Okonkwo-Lind",
+    "role": "Creative Technologist",
+    "image": "painter at desk with laptop and palette"
+  },
+  {
+    "slug": "light-as-material-a-new-wave-of-projection-painters",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "Light as Material: A New Wave of Projection Painters",
+    "deck": "Five artists treating the projector like a brush, not a screen.",
+    "author": "Sol Ibarra",
+    "role": "Curator",
+    "image": "projection on raw plaster wall"
+  },
+  {
+    "slug": "selling-process-why-collectors-now-ask-for-the-notes",
+    "pillar": "Art",
+    "format": "Article",
+    "title": "Selling Process: Why Collectors Now Ask for the Notes",
+    "deck": "Process documentation is turning into part of the artwork's value.",
+    "author": "Jonah Reyes",
+    "role": "Editor",
+    "image": "notebook beside framed work"
+  },
+  {
+    "slug": "the-gallery-asked-for-my-process-note-kofi-mensah-on-disclosure",
+    "pillar": "Art",
+    "format": "Interview",
+    "title": "\"The Gallery Asked for My Process Note\": Kofi Mensah on Disclosure",
+    "deck": "A painter on writing two honest sentences about his tools, and what changed after.",
+    "author": "Camille Duret",
+    "role": "Art Critic",
+    "image": "portrait — painter in front of large canvas"
+  },
+  {
+    "slug": "mapping-a-900-year-old-ceiling-with-light",
+    "pillar": "Art",
+    "format": "Interview",
+    "title": "Mapping a 900-Year-Old Ceiling With Light",
+    "deck": "A projection artist on scanning, restraint and asking permission from a cathedral.",
+    "author": "Sol Ibarra",
+    "role": "Curator",
+    "image": "vaulted ceiling with projected pattern"
+  },
+  {
+    "slug": "three-drawing-tablets-for-painters-who-hate-tablets",
+    "pillar": "Art",
+    "format": "Review",
+    "title": "Three Drawing Tablets for Painters Who Hate Tablets",
+    "deck": "Texture, weight and latency, judged by people who prefer paper.",
+    "author": "Owen Harker",
+    "role": "Printmaker",
+    "image": "three tablets on a wooden table"
+  },
+  {
+    "slug": "field-studies-at-bergen-kunsthall",
+    "pillar": "Art",
+    "format": "Review",
+    "title": "\"Field Studies\" at Bergen Kunsthall",
+    "deck": "Landscape painting meets sensor data, and the sensors mostly lose.",
+    "author": "Teodor Halvorsen",
+    "role": "Print Technician",
+    "image": "large landscape canvas, gallery"
+  },
+  {
+    "slug": "northlight-announces-its-creative-machines-shortlist",
+    "pillar": "Art",
+    "format": "News",
+    "title": "Northlight Announces Its Creative Machines Shortlist",
+    "deck": "Eighteen artists from eleven countries. Four work primarily on paper.",
+    "author": "Tomás Ellery",
+    "role": "Reporter",
+    "image": "shortlist announcement, studio portraits"
+  },
+  {
+    "slug": "venice-pavilion-to-show-a-robotic-fresco-made-over-nine-months",
+    "pillar": "Art",
+    "format": "News",
+    "title": "Venice Pavilion to Show a Robotic Fresco Made Over Nine Months",
+    "deck": "The work will be painted on site, in public, at a rate of one square metre a week.",
+    "author": "Sofie Lund",
+    "role": "Reporter",
+    "image": "scaffold and robotic arm in pavilion"
+  },
+  {
+    "slug": "who-gets-credit-how-audiences-judge-authorship-in-1-214-tool-assisted-artworks",
+    "pillar": "Art",
+    "format": "Research",
+    "title": "Who Gets Credit? How Audiences Judge Authorship in 1,214 Tool-Assisted Artworks",
+    "deck": "Specific process notes raised perceived skill by 18%.",
+    "author": "Dr. Hanna Lew",
+    "role": "Researcher",
+    "image": "figure — perceived skill by disclosure type"
+  },
+  {
+    "slug": "pigment-stability-in-400-plotter-pens-a-two-year-lightfastness-test",
+    "pillar": "Art",
+    "format": "Research",
+    "title": "Pigment Stability in 400 Plotter Pens: A Two-Year Lightfastness Test",
+    "deck": "Most gel inks faded measurably within eight months under gallery lighting.",
+    "author": "Ruth Abara",
+    "role": "Conservator",
+    "image": "chart — fade curves by ink type"
+  },
+  {
+    "slug": "conserving-software-based-artworks-a-ten-year-review",
+    "pillar": "Art",
+    "format": "Research",
+    "title": "Conserving Software-Based Artworks: A Ten-Year Review",
+    "deck": "Of 212 works studied, 38% no longer run as the artist intended.",
+    "author": "Dr. Felix Amari",
+    "role": "Researcher",
+    "image": "table — failure causes by decade"
+  },
+  {
+    "slug": "colour-accuracy-in-virtual-try-on-across-11-skin-tone-groups",
+    "pillar": "Beauty",
+    "format": "Research",
+    "title": "Colour Accuracy in Virtual Try-On Across 11 Skin-Tone Groups",
+    "deck": "Error on the deepest three groups was more than double the lightest three.",
+    "author": "Priya Natarajan",
+    "role": "Cosmetic Chemist",
+    "image": "chart — delta-E by skin-tone group"
+  },
+  {
+    "slug": "latency-and-feel-when-musicians-stop-trusting-a-live-ai-accompanist",
+    "pillar": "Music",
+    "format": "Research",
+    "title": "Latency and Feel: When Musicians Stop Trusting a Live AI Accompanist",
+    "deck": "Trust dropped sharply above 38 ms of response delay.",
+    "author": "Dr. Felix Amari",
+    "role": "Researcher",
+    "image": "chart — trust vs latency"
+  },
+  {
+    "slug": "procedural-worlds-still-need-authors",
+    "pillar": "Gaming",
+    "format": "Article",
+    "title": "Procedural Worlds Still Need Authors",
+    "deck": "Generated terrain is cheap now. Places worth returning to are not.",
+    "author": "Noor Haddad",
+    "role": "Game Designer",
+    "image": "open-world landscape, dusk"
+  },
+  {
+    "slug": "writing-40-000-lines-of-dialogue-at-a-five-person-studio",
+    "pillar": "Gaming",
+    "format": "Interview",
+    "title": "Writing 40,000 Lines of Dialogue at a Five-Person Studio",
+    "deck": "The narrative lead on what she drafted with help and what she would never hand over.",
+    "author": "Theo Marsh",
+    "role": "Reporter",
+    "image": "writers room, index cards on wall"
+  },
+  {
+    "slug": "three-level-design-assistants-tested-on-a-game-jam",
+    "pillar": "Gaming",
+    "format": "Review",
+    "title": "Three Level-Design Assistants, Tested on a Game Jam",
+    "deck": "One saved real time on blockouts. Two produced levels nobody wanted to replay.",
+    "author": "Sam Ortiz",
+    "role": "Game Developer",
+    "image": "level blockout on monitor"
+  },
+  {
+    "slug": "an-awards-body-adds-a-category-for-tool-assisted-art-direction",
+    "pillar": "Gaming",
+    "format": "News",
+    "title": "An Awards Body Adds a Category for Tool-Assisted Art Direction",
+    "deck": "Entrants must submit a process note alongside the work.",
+    "author": "Tomás Ellery",
+    "role": "Reporter",
+    "image": "awards stage, empty"
+  },
+  {
+    "slug": "do-players-notice-procedural-levels-a-blind-test-with-600-players",
+    "pillar": "Gaming",
+    "format": "Research",
+    "title": "Do Players Notice Procedural Levels? A Blind Test With 600 Players",
+    "deck": "Players spotted generated levels barely above chance, but rated hand-tuned ones as fairer.",
+    "author": "Noor Haddad",
+    "role": "Game Designer",
+    "image": "chart — detection rate by level type"
+  },
+  {
+    "slug": "gaussian-splats-explained-for-interior-designers",
+    "pillar": "Architecture & Interior Design",
+    "format": "Article",
+    "title": "Gaussian Splats, Explained for Interior Designers",
+    "deck": "What a room scan captures, what it misses, and when to reach for a tape measure instead.",
+    "author": "Marta Solé",
+    "role": "Interior Architect",
+    "image": "splat render of a living room"
+  },
+  {
+    "slug": "drawing-by-hand-after-ten-years-of-parametric-design",
+    "pillar": "Architecture & Interior Design",
+    "format": "Interview",
+    "title": "Drawing by Hand After Ten Years of Parametric Design",
+    "deck": "An architect on returning to tracing paper, and keeping the scripts for later.",
+    "author": "Jonah Reyes",
+    "role": "Editor",
+    "image": "architect at drafting table"
+  },
+  {
+    "slug": "four-generative-layout-tools-judged-by-a-kitchen-designer",
+    "pillar": "Architecture & Interior Design",
+    "format": "Review",
+    "title": "Four Generative Layout Tools, Judged by a Kitchen Designer",
+    "deck": "Good at circulation. Poor at where people actually put the kettle.",
+    "author": "Marta Solé",
+    "role": "Interior Architect",
+    "image": "kitchen plan drawings"
+  },
+  {
+    "slug": "a-city-requires-disclosure-of-generated-renders-in-planning-applications",
+    "pillar": "Architecture & Interior Design",
+    "format": "News",
+    "title": "A City Requires Disclosure of Generated Renders in Planning Applications",
+    "deck": "Applicants must label any image not produced from the actual design model.",
+    "author": "Sofie Lund",
+    "role": "Reporter",
+    "image": "planning notice on site hoarding"
+  },
+  {
+    "slug": "how-412-interior-studios-use-generative-layout-tools",
+    "pillar": "Architecture & Interior Design",
+    "format": "Research",
+    "title": "How 412 Interior Studios Use Generative Layout Tools",
+    "deck": "62% use them for early layouts. Only 9% show output to clients unedited.",
+    "author": "TechIsArt Research Desk",
+    "role": "Editorial",
+    "image": "chart — tool use by project stage"
+  },
+  {
+    "slug": "in-betweening-tools-that-ask-before-they-draw",
+    "pillar": "Film & Animation",
+    "format": "Article",
+    "title": "In-Betweening Tools That Ask Before They Draw",
+    "deck": "Hand-drawn studios are adopting assistants that propose frames and wait for approval.",
+    "author": "Yuki Tanabe",
+    "role": "Animation Director",
+    "image": "animation desk, light table, pencil frames"
+  },
+  {
+    "slug": "what-grading-tools-still-can-t-see",
+    "pillar": "Film & Animation",
+    "format": "Article",
+    "title": "What Grading Tools Still Can't See",
+    "deck": "Skin, intent and the shot the director remembers.",
+    "author": "Hugo Lamarre",
+    "role": "Colourist",
+    "image": "grading suite, monitors"
+  },
+  {
+    "slug": "scanning-puppets-without-losing-the-thumbprints",
+    "pillar": "Film & Animation",
+    "format": "Interview",
+    "title": "Scanning Puppets Without Losing the Thumbprints",
+    "deck": "A stop-motion studio on 3D capture that keeps the handmade marks.",
+    "author": "Sofie Lund",
+    "role": "Reporter",
+    "image": "stop-motion puppet on scanning turntable"
+  },
+  {
+    "slug": "three-previs-tools-tested-on-a-real-short-film",
+    "pillar": "Film & Animation",
+    "format": "Review",
+    "title": "Three Previs Tools Tested on a Real Short Film",
+    "deck": "Fast for blocking, unhelpful for performance. The storyboard artist stayed.",
+    "author": "Ade Okafor",
+    "role": "Filmmaker",
+    "image": "previs frame beside storyboard"
+  },
+  {
+    "slug": "two-festivals-add-tool-disclosure-lines-to-submission-forms",
+    "pillar": "Film & Animation",
+    "format": "News",
+    "title": "Two Festivals Add Tool-Disclosure Lines to Submission Forms",
+    "deck": "Filmmakers will list generative tools by stage: development, production or post.",
+    "author": "Sofie Lund",
+    "role": "Reporter",
+    "image": "festival submission form, detail"
+  },
+  {
+    "slug": "what-viewers-notice-in-synthetic-crowds",
+    "pillar": "Film & Animation",
+    "format": "Research",
+    "title": "What Viewers Notice in Synthetic Crowds",
+    "deck": "9% of viewers flagged generated extras; 58% flagged a generated lead face.",
+    "author": "Hugo Lamarre",
+    "role": "Colourist",
+    "image": "chart — detection by shot type"
+  }
+]

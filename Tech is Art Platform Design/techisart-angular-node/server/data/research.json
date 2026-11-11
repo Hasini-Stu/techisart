@@ -1,0 +1,374 @@
+[
+  {
+    "slug": "who-gets-credit-how-audiences-judge-authorship-in-1-214-tool-assisted-artworks",
+    "title": "Who Gets Credit? How Audiences Judge Authorship in 1,214 Tool-Assisted Artworks",
+    "abstract": "We showed 3,050 participants a set of 1,214 artworks made with varying degrees of generative assistance and asked them to judge authorship, skill and value. Disclosure of process, not the presence of AI, was the strongest predictor of how much credit audiences gave the artist. Works with a short, specific process note were rated as more skilful than both undisclosed AI-assisted works and fully manual works without notes.",
+    "field": "Art",
+    "type": "Study",
+    "source": "Journal of Creative Computing 9(3) · Peer-reviewed · October 2026 · Lew, Menon & Brandvold, Studio for Creative Computing, Utrecht",
+    "author": "Dr. Hanna Lew",
+    "role": "Researcher, HCI",
+    "cls": "Expert",
+    "verified": true,
+    "reads": 14200,
+    "cites": 38,
+    "pick": true,
+    "tags": [
+      "authorship",
+      "disclosure",
+      "audience perception"
+    ],
+    "cite": "Lew, Menon & Brandvold (2026) · Journal of Creative Computing 9(3), 112–131",
+    "publishedDaysAgo": 6,
+    "deck": "A large study finds that how artists describe their process matters more to audiences than whether AI was involved at all.",
+    "disclosure": "Statistical analysis in R. A language model was used to check this summary against the paper for accuracy; all text was written and approved by the authors.",
+    "findings": [
+      "A specific process note raised perceived skill by 18% on average, compared with no note.",
+      "Vague labels such as \"made with AI\" lowered perceived authorship by 11%.",
+      "Practitioners in the sample judged human editing more generously than general audiences did."
+    ],
+    "blocks": [
+      {
+        "type": "h2",
+        "text": "Why we ran this study"
+      },
+      {
+        "type": "p",
+        "text": "Most debate about AI in art asks whether machine involvement should count against an artist. We wanted to measure something more practical: what audiences actually do with the information they are given, and whether artists can influence that through the way they describe their work."
+      },
+      {
+        "type": "h2",
+        "text": "Method"
+      },
+      {
+        "type": "p",
+        "text": "We assembled 1,214 works from 212 consenting artists across illustration, painting, photography and print. Each work was tagged by stage of tool use: ideation, generation, editing, or none. Participants saw each work under one of four conditions: no information, a generic \"made with AI\" label, a specific process note written by the artist, or a note stating the work was fully manual."
+      },
+      {
+        "type": "p",
+        "text": "Participants rated authorship, skill and how much they would pay for a print. We recruited 2,410 general-audience participants and 640 working practitioners, and preregistered our hypotheses before data collection."
+      },
+      {
+        "type": "quote",
+        "text": "Audiences are not asking whether a machine was involved. They are asking who made the decisions.",
+        "by": "From the paper's discussion"
+      },
+      {
+        "type": "h2",
+        "text": "What it means for creators"
+      },
+      {
+        "type": "p",
+        "text": "The practical lesson is that disclosure is not a penalty to be minimised. A two-sentence note naming the tool and the stage at which it was used, followed by what the artist did next, consistently earned more credit than silence. Generic labels did the opposite."
+      },
+      {
+        "type": "h2",
+        "text": "Limitations"
+      },
+      {
+        "type": "p",
+        "text": "Ratings were collected online, on screens, and may not reflect how people respond to physical work in a gallery. Participants were drawn from eight countries, mostly in Europe and North America. We are now repeating the study with in-person audiences in Lagos, São Paulo and Seoul."
+      }
+    ],
+    "citation": "Lew, H., Menon, R., & Brandvold, O. (2026). Who gets credit? Audience judgements of authorship in tool-assisted artworks. Journal of Creative Computing, 9(3), 112–131.",
+    "references": [
+      "Arends, K. & Moll, T. (2024). Labelling effects in the evaluation of generative imagery. Art & Perception, 12(2), 88–104.",
+      "Brandvold, O. (2025). Process notes as provenance: a field study of three galleries. Studio for Creative Computing Working Papers, 7.",
+      "Ishikawa, R. (2023). The authorship heuristic: how audiences assign credit in collaborative work. Cognition & Culture, 19, 201–219.",
+      "TechIsArt Research Desk (2026). The State of Creative Tooling 2026: survey of 3,400 practitioners."
+    ],
+    "commentsEnabled": false,
+    "rating": {
+      "sum": 609.6,
+      "count": 127
+    }
+  },
+  {
+    "slug": "why-musicians-stop-trusting-a-live-ai-accompanist",
+    "title": "Why Musicians Stop Trusting a Live AI Accompanist",
+    "abstract": "A plain-language summary of a new paper: across 48 musicians, trust in a live accompanist fell sharply above 38 ms of response delay, well before players could name what felt wrong.",
+    "field": "Music",
+    "type": "Review",
+    "source": "Peer-reviewed",
+    "author": "Mina Sorensen",
+    "role": "Music Editor",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 6100,
+    "cites": 4,
+    "pick": false,
+    "tags": [
+      "latency",
+      "performance",
+      "trust"
+    ],
+    "cite": "Summary by TechIsArt · Source: Music Perception 43(2), 141–158",
+    "original": "Amari, F., Holt, J. & Sato, K. (2026). Latency thresholds for trust in human–AI musical duets. Music Perception, 43(2).",
+    "publishedDaysAgo": 4
+  },
+  {
+    "slug": "colour-accuracy-in-virtual-try-on-across-11-skin-tone-groups",
+    "title": "Colour Accuracy in Virtual Try-On Across 11 Skin-Tone Groups",
+    "abstract": "An open benchmark of six try-on systems and 264 participants. Colour error for the deepest three skin-tone groups was more than double that of the lightest three on four of six systems.",
+    "field": "Beauty",
+    "type": "Analysis",
+    "source": "Independent / Community",
+    "author": "Priya Natarajan",
+    "role": "Cosmetic Chemist",
+    "cls": "Expert",
+    "verified": true,
+    "reads": 9800,
+    "cites": 12,
+    "pick": true,
+    "tags": [
+      "skin tone",
+      "colour accuracy",
+      "virtual try-on",
+      "benchmark"
+    ],
+    "cite": "Original analysis · 6 systems, 264 participants · Data and method open",
+    "publishedDaysAgo": 14
+  },
+  {
+    "slug": "how-412-interior-studios-use-generative-layout-tools",
+    "title": "How 412 Interior Studios Use Generative Layout Tools",
+    "abstract": "A survey of practising studios in 18 countries. 62% use generative tools for early layouts; only 9% show unedited output to clients, citing liability and taste.",
+    "field": "Architecture & Interior Design",
+    "type": "Analysis",
+    "source": "Industry",
+    "author": "TechIsArt Research Desk",
+    "role": "Editorial",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 4300,
+    "cites": 3,
+    "pick": false,
+    "tags": [
+      "layout",
+      "practice survey",
+      "clients"
+    ],
+    "cite": "Original survey · n = 412 studios · Fieldwork Aug–Sep 2026",
+    "publishedDaysAgo": 20
+  },
+  {
+    "slug": "fit-prediction-in-practice-one-atelier-s-900-garment-season",
+    "title": "Fit Prediction in Practice: One Atelier's 900-Garment Season",
+    "abstract": "A production case study comparing digital fit predictions with in-person fittings. Predictions matched 71% of the time; errors clustered at shoulders and hips.",
+    "field": "Fashion",
+    "type": "Case study",
+    "source": "Industry",
+    "author": "Adaeze Morrow",
+    "role": "Fashion Designer",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 3700,
+    "cites": 2,
+    "pick": false,
+    "tags": [
+      "fit",
+      "digital twins",
+      "production"
+    ],
+    "cite": "Case study · Atelier Morrow, Copenhagen · SS26 season",
+    "publishedDaysAgo": 45
+  },
+  {
+    "slug": "stem-separation-and-the-session-tape-a-blind-listening-study",
+    "title": "Stem Separation and the Session Tape: A Blind Listening Study",
+    "abstract": "Twenty engineers compared separated stems from a 1974 session with the original multitrack. Separation was rated acceptable for vocals and bass but failed on room tone and bleed.",
+    "field": "Music",
+    "type": "Study",
+    "source": "Independent / Community",
+    "author": "Dele Ashworth",
+    "role": "Producer",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 5200,
+    "cites": 5,
+    "pick": false,
+    "tags": [
+      "stem separation",
+      "audio restoration",
+      "listening test"
+    ],
+    "cite": "Independent study · 20 engineers · Audio files available on request",
+    "publishedDaysAgo": 60
+  },
+  {
+    "slug": "what-viewers-notice-in-synthetic-crowds",
+    "title": "What Viewers Notice in Synthetic Crowds",
+    "abstract": "A summary of a new perception study with 1,120 viewers: only 9% flagged generated background extras, while 58% flagged a generated lead face.",
+    "field": "Film & Animation",
+    "type": "Review",
+    "source": "Peer-reviewed",
+    "author": "Hugo Lamarre",
+    "role": "Colourist",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 7400,
+    "cites": 9,
+    "pick": true,
+    "tags": [
+      "perception",
+      "synthetic performers",
+      "VFX"
+    ],
+    "cite": "Summary by TechIsArt · Source: Journal of Vision Studies 18, 55–73",
+    "original": "Okafor, L., Brandt, M. et al. (2026). Detection of synthetic performers in narrative film. Journal of Vision Studies, 18.",
+    "publishedDaysAgo": 120
+  },
+  {
+    "slug": "plotter-pen-lightfastness-a-two-year-home-test",
+    "title": "Plotter Pen Lightfastness: A Two-Year Home Test",
+    "abstract": "Forty pens exposed to window light for 24 months. Most gel inks faded visibly within eight months; pigment fineliners held up best.",
+    "field": "Art",
+    "type": "Analysis",
+    "source": "Independent / Community",
+    "author": "Sam Ortiz",
+    "role": "Hobbyist",
+    "cls": "Enthusiast",
+    "verified": false,
+    "reads": 2100,
+    "cites": 1,
+    "pick": false,
+    "tags": [
+      "conservation",
+      "materials",
+      "plotters"
+    ],
+    "cite": "Independent test · 40 pens · Photographs at monthly intervals",
+    "publishedDaysAgo": 150
+  },
+  {
+    "slug": "conserving-software-based-artworks-a-ten-year-review",
+    "title": "Conserving Software-Based Artworks: A Ten-Year Review",
+    "abstract": "Of 212 software-based works acquired between 1996 and 2016, 38% no longer run as the artist intended. Dependency loss is the leading cause.",
+    "field": "Art",
+    "type": "Paper",
+    "source": "Independent / Community",
+    "author": "Ruth Abara",
+    "role": "Conservator",
+    "cls": "Expert",
+    "verified": true,
+    "reads": 6900,
+    "cites": 21,
+    "pick": true,
+    "tags": [
+      "conservation",
+      "software art",
+      "museums"
+    ],
+    "cite": "Working paper · Abara, R. (2026) · 212 works, 1996–2016",
+    "publishedDaysAgo": 200
+  },
+  {
+    "slug": "teaching-a-robot-arm-to-hold-a-brush-notes-from-a-final-year-project",
+    "title": "Teaching a Robot Arm to Hold a Brush: Notes From a Final-Year Project",
+    "abstract": "A student case study on calibrating a low-cost arm for oil painting, including pressure mapping and the failures that shaped the final work.",
+    "field": "Art",
+    "type": "Case study",
+    "source": "Independent / Community",
+    "author": "Lea Kraus",
+    "role": "Art student",
+    "cls": "Student",
+    "verified": false,
+    "reads": 1800,
+    "cites": 0,
+    "pick": false,
+    "tags": [
+      "robotics",
+      "painting",
+      "education"
+    ],
+    "cite": "Student case study · Weißensee Kunsthochschule, Berlin",
+    "publishedDaysAgo": 280
+  },
+  {
+    "slug": "shade-ranges-across-30-brands-virtual-try-on-tools",
+    "title": "Shade Ranges Across 30 Brands' Virtual Try-On Tools",
+    "abstract": "An industry audit of shade coverage in 30 brands' try-on tools. Twelve offered fewer than four options for deep skin tones.",
+    "field": "Beauty",
+    "type": "Analysis",
+    "source": "Industry",
+    "author": "Leah Brandt",
+    "role": "Salon Owner",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 3300,
+    "cites": 6,
+    "pick": false,
+    "tags": [
+      "skin tone",
+      "inclusivity",
+      "virtual try-on"
+    ],
+    "cite": "Industry audit · 30 brands · Conducted Jan 2026",
+    "publishedDaysAgo": 300
+  },
+  {
+    "slug": "do-players-notice-procedural-levels-a-blind-test-with-600-players",
+    "title": "Do Players Notice Procedural Levels? A Blind Test With 600 Players",
+    "abstract": "Players identified procedurally generated levels 54% of the time, barely above chance, but rated hand-tuned levels as fairer.",
+    "field": "Gaming",
+    "type": "Paper",
+    "source": "Independent / Community",
+    "author": "Noor Haddad",
+    "role": "Game Designer",
+    "cls": "Professional",
+    "verified": true,
+    "reads": 4800,
+    "cites": 7,
+    "pick": false,
+    "tags": [
+      "procedural generation",
+      "player perception"
+    ],
+    "cite": "Preprint · Haddad, N. (2025) · Data on GitHub",
+    "publishedDaysAgo": 500
+  },
+  {
+    "slug": "previs-and-performance-how-directors-use-real-time-engines",
+    "title": "Previs and Performance: How Directors Use Real-Time Engines",
+    "abstract": "Interviews with 31 directors on where real-time previs helped blocking and where it flattened performance.",
+    "field": "Film & Animation",
+    "type": "Study",
+    "source": "Peer-reviewed",
+    "author": "Ade Okafor",
+    "role": "Filmmaker",
+    "cls": "Student",
+    "verified": true,
+    "reads": 2600,
+    "cites": 14,
+    "pick": false,
+    "tags": [
+      "previs",
+      "directing",
+      "real-time"
+    ],
+    "cite": "Okafor, A. (2023) · Journal of Screen Practice 11(1)",
+    "publishedDaysAgo": 1300
+  },
+  {
+    "slug": "daylight-simulation-accuracy-in-early-design-tools",
+    "title": "Daylight Simulation Accuracy in Early Design Tools",
+    "abstract": "Five early-stage tools compared with measured daylight in 40 rooms. Errors exceeded 30% in deep-plan spaces.",
+    "field": "Architecture & Interior Design",
+    "type": "Paper",
+    "source": "Peer-reviewed",
+    "author": "Marta Solé",
+    "role": "Interior Architect",
+    "cls": "Expert",
+    "verified": true,
+    "reads": 3100,
+    "cites": 27,
+    "pick": false,
+    "tags": [
+      "daylight",
+      "simulation",
+      "early design"
+    ],
+    "cite": "Solé, M. & Ruiz, P. (2022) · Building and Environment 214",
+    "publishedDaysAgo": 1400
+  }
+]

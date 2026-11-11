@@ -1,0 +1,363 @@
+[
+  {
+    "id": 1,
+    "type": "Grant",
+    "title": "Creative Machines Grant 2027",
+    "org": "Northlight Foundation",
+    "orgVerified": true,
+    "days": 71,
+    "posted": 3,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash",
+      "Mentorship"
+    ],
+    "prizeText": "€25,000 × 6 awards",
+    "prizeValue": 150000,
+    "fields": [
+      "Art",
+      "Music",
+      "Film & Animation"
+    ],
+    "link": "northlight.org/apply",
+    "sponsored": false,
+    "desc": "Six grants of €25,000 for artists, musicians and filmmakers building with emerging technology, with a year of mentorship from past recipients.",
+    "body": [
+      "The Creative Machines Grant supports practitioners who use new tools in service of a clear artistic intent. The foundation is less interested in technical novelty than in work where the person stays in charge of the result.",
+      "Recipients receive €25,000 paid in two instalments, monthly mentorship sessions, and a group showing at the end of the year. There are no restrictions on how the money is spent, but recipients file a short public process note at the end of the grant."
+    ],
+    "elig": [
+      "Individuals or collectives of up to three people",
+      "At least two years of practice in your field",
+      "Open worldwide; applications in English",
+      "Previous recipients may not reapply"
+    ],
+    "steps": [
+      "Write a project outline of up to 800 words",
+      "Share up to ten images, audio or video samples",
+      "Add a tools-used note describing how technology is involved",
+      "Submit on the Northlight site before 23:59 CET on the deadline"
+    ],
+    "orgAbout": "An independent foundation funding art and technology since 2009. Has awarded €4.2M to 180 practitioners in 31 countries."
+  },
+  {
+    "id": 2,
+    "type": "Program",
+    "title": "Material Futures Studio Residency",
+    "org": "Atelier Nord",
+    "orgVerified": true,
+    "days": 26,
+    "posted": 10,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "In person",
+    "location": "Copenhagen",
+    "prizes": [
+      "Mentorship",
+      "Exhibition"
+    ],
+    "prizeText": "3 months · €3,000/month stipend",
+    "prizeValue": 9000,
+    "fields": [
+      "Fashion",
+      "Architecture & Interior Design"
+    ],
+    "link": "ateliernord.dk/residency",
+    "sponsored": false,
+    "desc": "A three-month residency for designers working with new materials, with lab access, a stipend and a closing exhibition.",
+    "orgAbout": "A material research studio in Copenhagen working with mycelium, recycled fibres and bio-based composites."
+  },
+  {
+    "id": 3,
+    "type": "Competition",
+    "title": "Open Call: Sound for Small Rooms",
+    "org": "Lowfield Audio",
+    "orgVerified": true,
+    "days": 9,
+    "posted": 5,
+    "fee": "Paid",
+    "feeAmt": "€15",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash",
+      "Feature on our site"
+    ],
+    "prizeText": "€5,000 + release",
+    "prizeValue": 5000,
+    "fields": [
+      "Music"
+    ],
+    "link": "lowfield.audio/smallrooms",
+    "sponsored": true,
+    "desc": "Compose a piece for a room of under 20 square metres. Spatial and generative approaches welcome.",
+    "orgAbout": "A Berlin audio hardware company making speakers for small studios and living rooms."
+  },
+  {
+    "id": 4,
+    "type": "Competition",
+    "title": "Student Shade Lab Challenge",
+    "org": "Lumière Cosmetics",
+    "orgVerified": true,
+    "days": 12,
+    "posted": 8,
+    "fee": "Free",
+    "who": [
+      "Students",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash",
+      "Mentorship"
+    ],
+    "prizeText": "€3,000 + lab mentorship",
+    "prizeValue": 3000,
+    "fields": [
+      "Beauty"
+    ],
+    "link": "lumiere.com/shadelab",
+    "sponsored": false,
+    "desc": "Design a shade-matching method that works across the full range of skin tones. Open to students in chemistry, design and computing.",
+    "orgAbout": "A cosmetics house with labs in Lyon and São Paulo."
+  },
+  {
+    "id": 5,
+    "type": "Launch",
+    "title": "Open Beta: Splat Studio for Interiors",
+    "org": "Haddad Labs",
+    "orgVerified": false,
+    "days": 40,
+    "posted": 1,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Feature on our site"
+    ],
+    "prizeText": "Early access + feature",
+    "prizeValue": 0,
+    "fields": [
+      "Architecture & Interior Design",
+      "Gaming"
+    ],
+    "link": "haddadlabs.io/beta",
+    "sponsored": false,
+    "desc": "Early access to a room-scanning tool for interior designers. Twenty beta testers will be featured on TechIsArt.",
+    "orgAbout": "A small imaging studio building capture tools for designers."
+  },
+  {
+    "id": 6,
+    "type": "Grant",
+    "title": "Southern Light Emerging Animation Fund",
+    "org": "Southern Light Film Office",
+    "orgVerified": true,
+    "days": 33,
+    "posted": 14,
+    "fee": "Free",
+    "who": [
+      "Australia"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash"
+    ],
+    "prizeText": "A$40,000 per project",
+    "prizeValue": 40000,
+    "fields": [
+      "Film & Animation"
+    ],
+    "link": "southernlight.gov.au/animation",
+    "sponsored": false,
+    "desc": "Development funding for Australian animators making short films with new production tools.",
+    "orgAbout": "A state film office supporting screen production in Australia."
+  },
+  {
+    "id": 7,
+    "type": "Competition",
+    "title": "Melbourne Indie Game Jam 2026",
+    "org": "Fitzroy Play Collective",
+    "orgVerified": false,
+    "days": 4,
+    "posted": 20,
+    "fee": "Free",
+    "who": [
+      "Students",
+      "Australia"
+    ],
+    "format": "In person",
+    "location": "Melbourne",
+    "prizes": [
+      "Cash",
+      "Exhibition"
+    ],
+    "prizeText": "A$2,000 + showcase",
+    "prizeValue": 2000,
+    "fields": [
+      "Gaming"
+    ],
+    "link": "fitzroyplay.org/jam",
+    "sponsored": false,
+    "desc": "A 48-hour jam for student teams. Winning games are shown at the Fitzroy Play showcase in March.",
+    "orgAbout": "A volunteer collective running game events in Melbourne since 2018."
+  },
+  {
+    "id": 8,
+    "type": "Program",
+    "title": "TechIsArt Writers Fellowship",
+    "org": "TechIsArt",
+    "orgVerified": true,
+    "days": 55,
+    "posted": 7,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash",
+      "Mentorship",
+      "Feature on our site"
+    ],
+    "prizeText": "€1,000/month × 6 months",
+    "prizeValue": 6000,
+    "fields": [
+      "Art",
+      "Music",
+      "Beauty",
+      "Fashion"
+    ],
+    "link": "techisart.com/fellowship",
+    "sponsored": false,
+    "desc": "Six months of paid, edited writing for practitioners who want to publish what they know.",
+    "orgAbout": "This publication."
+  },
+  {
+    "id": 9,
+    "type": "Competition",
+    "title": "Runway Futures Design Prize",
+    "org": "Maison Varela",
+    "orgVerified": true,
+    "days": 18,
+    "posted": 12,
+    "fee": "Paid",
+    "feeAmt": "€40",
+    "who": [
+      "Students",
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "In person",
+    "location": "Paris",
+    "prizes": [
+      "Cash",
+      "Exhibition"
+    ],
+    "prizeText": "€20,000 + Paris showing",
+    "prizeValue": 20000,
+    "fields": [
+      "Fashion"
+    ],
+    "link": "maisonvarela.com/prize",
+    "sponsored": true,
+    "desc": "A capsule collection prize for designers using digital fabrication. Finalists show in Paris in June.",
+    "orgAbout": "A Paris fashion house founded in 1962."
+  },
+  {
+    "id": 10,
+    "type": "Launch",
+    "title": "Kiln: An On-Device Model Kit for Studios",
+    "org": "Own Archive Collective",
+    "orgVerified": false,
+    "days": 60,
+    "posted": 2,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Feature on our site"
+    ],
+    "prizeText": "Free toolkit",
+    "prizeValue": 0,
+    "fields": [
+      "Art"
+    ],
+    "link": "ownarchive.org/kiln",
+    "sponsored": false,
+    "desc": "An open-source kit for training small models on your own archive, offline. Early users can contribute to the docs.",
+    "orgAbout": "An open-source collective of artists and developers."
+  },
+  {
+    "id": 11,
+    "type": "Grant",
+    "title": "Lightfast Conservation Research Grant",
+    "org": "Foundation for Digital Heritage",
+    "orgVerified": true,
+    "days": -6,
+    "posted": 60,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Worldwide"
+    ],
+    "format": "Online",
+    "prizes": [
+      "Cash"
+    ],
+    "prizeText": "€15,000",
+    "prizeValue": 15000,
+    "fields": [
+      "Art"
+    ],
+    "link": "fdh.org/grants",
+    "sponsored": false,
+    "desc": "Research funding for conservation of software-based and plotter-made artworks.",
+    "orgAbout": "A foundation supporting the preservation of digital culture."
+  },
+  {
+    "id": 12,
+    "type": "Program",
+    "title": "Sydney Interior Futures Mentorship",
+    "org": "Harbour Design Council",
+    "orgVerified": true,
+    "days": 21,
+    "posted": 9,
+    "fee": "Free",
+    "who": [
+      "Open to all",
+      "Australia"
+    ],
+    "format": "In person",
+    "location": "Sydney",
+    "prizes": [
+      "Mentorship"
+    ],
+    "prizeText": "6 months with a senior practice",
+    "prizeValue": 0,
+    "fields": [
+      "Architecture & Interior Design"
+    ],
+    "link": "harbourdesign.org.au/mentor",
+    "sponsored": false,
+    "desc": "Pairs early-career interior designers with senior practices exploring new design tools.",
+    "orgAbout": "An industry body for design practices in New South Wales."
+  }
+]

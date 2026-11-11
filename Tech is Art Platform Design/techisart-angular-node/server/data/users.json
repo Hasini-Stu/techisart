@@ -1,0 +1,28 @@
+[
+  {
+    "id": "u-mara",
+    "name": "Mara Okonkwo-Lind",
+    "email": "mara@marasketch.studio",
+    "password": "password1",
+    "role": "Creative Technologist",
+    "level": 1,
+    "points": 46,
+    "location": "Rotterdam, NL",
+    "available": true,
+    "bio": "I build small, private machine-learning tools for artists and write about the studios that use them.",
+    "site": "marasketch.studio",
+    "pinned": [
+      "The Hand Still Leads",
+      "Six Years Painting Alongside a Robot Arm"
+    ]
+  },
+  {
+    "id": "u-alex",
+    "name": "Alex Kim",
+    "email": "alex@example.com",
+    "password": "password1",
+    "role": null,
+    "level": 0,
+    "points": 12
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Beauty",
+    "slug": "beauty",
+    "blurb": "Skin, colour, scent and the tools behind them, from people who work on faces for a living."
+  },
+  {
+    "name": "Fashion",
+    "slug": "fashion",
+    "blurb": "Design, making and the business of clothes, from the cutting table to the runway."
+  },
+  {
+    "name": "Art",
+    "slug": "art",
+    "blurb": "Studios, exhibitions and practice. How artists are using new tools, and where they draw the line."
+  },
+  {
+    "name": "Music",
+    "slug": "music",
+    "blurb": "Composition, production and performance, written by people who make records."
+  },
+  {
+    "name": "Gaming",
+    "slug": "gaming",
+    "blurb": "Game design, worlds and play, from the people who build them."
+  },
+  {
+    "name": "Architecture & Interior Design",
+    "slug": "architecture-interior-design",
+    "blurb": "Buildings, rooms and the tools that shape them, from sketch to site."
+  },
+  {
+    "name": "Film & Animation",
+    "slug": "film-animation",
+    "blurb": "Live action, animation and post-production, from the people behind the frame."
+  }
+]
